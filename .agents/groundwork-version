@@ -1,0 +1,5 @@
+# Written by GroundWork's setup/install.py. Run it again to update.
+source=https://github.com/Hemanthkaruturi/GroundWork.git
+version=0.1.29
+commit=cdce62d4b8b5178d54f8dc6d4651a460c8189293
+installed=2026-11-23

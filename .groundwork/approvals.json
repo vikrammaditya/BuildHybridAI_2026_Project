@@ -1,0 +1,22 @@
+{
+  "DECISIONS/RFC-0001-hybrid-notes-workspace.md": {
+    "hash": "738566ddbe4fe6a98a520a7b216dacc10bd869e79746d2afd19954096bef9411",
+    "signers": [
+      {
+        "who": "vikrammaditya05@gmail.com",
+        "at": "2026-11-23T21:02:18+0530"
+      }
+    ],
+    "changes": 0
+  },
+  "specs/001-hybrid-notes-workspace/spec.md": {
+    "hash": "ccfcb396c4c8d70232e253b447d525fa582ee967716c837ed6242cb940f3ab0c",
+    "signers": [
+      {
+        "who": "vikrammaditya05@gmail.com",
+        "at": "2026-11-23T21:06:17+0530"
+      }
+    ],
+    "changes": 0
+  }
+}

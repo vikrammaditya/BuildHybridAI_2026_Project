@@ -1,0 +1,57 @@
+{
+  "AGENTS.md": {
+    "at": "2026-11-23T21:41:59+0530",
+    "by": "vikrammaditya05@gmail.com",
+    "epoch": 1795450319,
+    "hash": "b157555a062b47fc",
+    "snapshot": {
+      "signals": {
+        "package.json": "bd12022b0a78f9d5"
+      }
+    }
+  },
+  "ARCHITECTURE.md": {
+    "at": "2026-11-23T21:45:25+0530",
+    "by": "vikrammaditya05@gmail.com",
+    "epoch": 1795450525,
+    "hash": "45c0f3799210708b",
+    "snapshot": {
+      "layout": {
+        "legacy": "[\"eslint.config.mjs\", \"postcss.config.js\", \"postcss.config.js,tailwind.config.js,vite.config.ts,src\", \"src\", \"tailwind.config.js\", \"vite.config.ts\"]",
+        "mode": "\"standard\"",
+        "profile": "\"web\"",
+        "root": "\".\""
+      },
+      "rfcs": [
+        "RFC-0001-hybrid-notes-workspace"
+      ],
+      "signals": {
+        "package.json": "bd12022b0a78f9d5"
+      },
+      "toplevel": [
+        "components",
+        "config",
+        "connectors",
+        "core",
+        "pages",
+        "prompts",
+        "src",
+        "tests"
+      ]
+    }
+  },
+  "CONSTITUTION.md": {
+    "at": "2026-11-23T20:50:14+0530",
+    "by": "vikrammaditya05@gmail.com",
+    "epoch": 1795447214,
+    "hash": "af9750f023333d4b",
+    "snapshot": {}
+  },
+  "PROJECT.md": {
+    "at": "2026-11-23T20:52:20+0530",
+    "by": "vikrammaditya05@gmail.com",
+    "epoch": 1795447340,
+    "hash": "52945f994ea4c5e8",
+    "snapshot": {}
+  }
+}

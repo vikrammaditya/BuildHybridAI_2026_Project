@@ -1,0 +1,45 @@
+{
+  "standard": "0.12.0",
+  "layout": {
+    "mode": "standard",
+    "profile": "web",
+    "root": ".",
+    "decided_by": "vikrammaditya05@gmail.com",
+    "decided": "2026-11-23",
+    "legacy": [
+      "eslint.config.mjs",
+      "postcss.config.js",
+      "postcss.config.js,tailwind.config.js,vite.config.ts,src",
+      "src",
+      "tailwind.config.js",
+      "vite.config.ts"
+    ]
+  },
+  "quality": {
+    "mode": "standard",
+    "decided_by": "vikrammaditya05@gmail.com",
+    "decided": "2026-11-23",
+    "commands": {
+      "test": [
+        "npm.cmd test"
+      ],
+      "types": [
+        "npm.cmd run typecheck"
+      ],
+      "format": [
+        "npx.cmd prettier --check src pages components core connectors config prompts tests"
+      ],
+      "lint": [
+        "npm.cmd run typecheck"
+      ]
+    },
+    "fix": {
+      "format": [
+        "npx.cmd prettier --write src pages components core connectors config prompts tests"
+      ],
+      "lint": [
+        "npm.cmd run typecheck"
+      ]
+    }
+  }
+}
