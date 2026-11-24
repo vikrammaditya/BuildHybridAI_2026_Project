@@ -1,0 +1,22 @@
+{
+  "DECISIONS/RFC-0001-fieldpulse-hybrid-triage.md": {
+    "hash": "41dbf4d4fff272f113d66f1247ba418edb51f8f8eba2d85c0138ba73ffb28944",
+    "signers": [
+      {
+        "who": "vikrammaditya",
+        "at": "2026-11-24T08:46:32+0530"
+      }
+    ],
+    "changes": 0
+  },
+  "specs/001-fieldpulse-hybrid-triage/spec.md": {
+    "hash": "4f971da59dfc34e115664c21c0cacdf36eedf00b87b0b29cf8fb4dbac6301632",
+    "signers": [
+      {
+        "who": "vikrammaditya",
+        "at": "2026-11-24T08:46:33+0530"
+      }
+    ],
+    "changes": 0
+  }
+}

@@ -1,0 +1,15 @@
+# groundwork: documents GroundWork owns (approvals hash their exact text)
+.groundwork/
+.agents/
+.codex/
+.claude/
+.agents/
+specs/
+bugs/
+DECISIONS/
+CONTRACTS/
+PROJECT.md
+ARCHITECTURE.md
+CONSTITUTION.md
+AGENTS.md
+CODEMAP.md

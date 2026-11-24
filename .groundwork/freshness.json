@@ -1,0 +1,57 @@
+{
+  "AGENTS.md": {
+    "at": "2026-11-24T07:37:51+0530",
+    "by": "vikrammaditya",
+    "epoch": 1795486071,
+    "hash": "b157555a062b47fc",
+    "snapshot": {
+      "signals": {
+        "package.json": "dde0367317203c47"
+      }
+    }
+  },
+  "ARCHITECTURE.md": {
+    "at": "2026-11-24T08:37:12+0530",
+    "by": "vikrammaditya",
+    "epoch": 1795489632,
+    "hash": "a0ea62b34cbe6bd3",
+    "snapshot": {
+      "layout": {
+        "legacy": "[\"eslint.config.mjs\", \"postcss.config.js\", \"postcss.config.js,tailwind.config.js,vite.config.ts,src\", \"src\", \"tailwind.config.js\", \"vite.config.ts\"]",
+        "mode": "\"standard\"",
+        "profile": "\"web\"",
+        "root": "\".\""
+      },
+      "rfcs": [
+        "RFC-0001-fieldpulse-hybrid-triage"
+      ],
+      "signals": {
+        "package.json": "dde0367317203c47"
+      },
+      "toplevel": [
+        "components",
+        "config",
+        "connectors",
+        "core",
+        "pages",
+        "prompts",
+        "src",
+        "tests"
+      ]
+    }
+  },
+  "CONSTITUTION.md": {
+    "at": "2026-11-24T07:37:51+0530",
+    "by": "vikrammaditya",
+    "epoch": 1795486071,
+    "hash": "801df5239d08b4a6",
+    "snapshot": {}
+  },
+  "PROJECT.md": {
+    "at": "2026-11-24T07:37:50+0530",
+    "by": "vikrammaditya",
+    "epoch": 1795486070,
+    "hash": "c4d17fcbe46cff11",
+    "snapshot": {}
+  }
+}
